@@ -1,0 +1,2 @@
+
+System.import('./b')

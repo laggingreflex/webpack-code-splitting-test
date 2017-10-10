@@ -1,0 +1,10 @@
+{
+  "name": "webpack-code-splitting-test",
+  "scripts": {
+    "start": "webpack --progress"
+  },
+  "repository": "laggingreflex/webpack-code-splitting-test",
+  "dependencies": {
+    "webpack": "^2.6.0"
+  }
+}
